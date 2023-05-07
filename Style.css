@@ -6,7 +6,7 @@
     display: block;
     width: 100%;
     height: 100vh;
-    background-image: linear-gradient(to bottom, #fff 40%, #FCD3C1 100%);
+    background-image: linear-gradient(to bottom, #fff 40%, #FFF9AE 100%);
     background-size: 100% 100%;
     background-position: 40% 0%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -68,7 +68,7 @@ img.logo {
 
 .btn {
     margin-top: 2rem;
-    background-color: #A54686;
+    background-color: #FFF9AE;
     border-radius: 8px;
     color: white;
     display: inline-block;
@@ -81,7 +81,7 @@ img.logo {
     display: inline-flex;
     align-items: center;
     margin-right: 10px;
-    color: #A54686;
+    color: #FFF9AE;
   }
 
 .validez{
