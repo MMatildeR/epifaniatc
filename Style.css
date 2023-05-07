@@ -59,7 +59,7 @@ h1 {
 }
 
 img.logo {
-     margin-top: 2rem;
+     margin-top: 1rem;
      margin-left: 1rem;
      margin-right: 1rem;
      width: 30rem;
@@ -67,7 +67,7 @@ img.logo {
 }
 
 .btn {
-    margin-top: 2rem;
+    margin-top: 1.5rem;
     background-color: #EC008C;
     border-radius: 8px;
     color: white;
